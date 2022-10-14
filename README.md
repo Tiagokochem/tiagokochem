@@ -3,9 +3,9 @@
 
 
 - 🔭 Atualmente estou trabalhando com HTML, CSS e Suporte online!
-- 🌱 Atualmente estou aprendendo sobre TypeScript, Vue, e principalmente PHP.
+- 🌱 Atualmente estou aprendendo sobre TypeScript, Node, Express, PHP e Laravel.
 - 👯 Buscando colaborar com projetos em Front-end no momento.
-- 😊 Posso te ajudar com CSS, HTML, PHP
+- 😊 Posso te ajudar com CSS, HTML, Javascript.
 - 💬 Sobre mim: Curto tecnologias desde sempre, estou buscando me aprimorar cada vez mais na área 😎🎮 adoro assistir séries em geral e ir na academia :)!
 -->
 
