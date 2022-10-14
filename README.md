@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente estou trabalhando com HTML, CSS e Suporte online!
+- 🔭 Atualmente estou trabalhando como dev Jr em PHP, Laravel e Vue!
 - 🌱 Atualmente estou aprendendo sobre TypeScript, Node, Express, PHP e Laravel.
 - 👯 Buscando colaborar com projetos em Front-end no momento.
 - 😊 Posso te ajudar com CSS, HTML, Javascript.
