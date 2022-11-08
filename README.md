@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou trabalhando como dev Jr em PHP, Laravel e Vue!
 - 🌱 Atualmente estou aprendendo sobre TypeScript, Node, Express, PHP e Laravel.
-- 👯 Buscando colaborar com projetos em Front-end no momento.
+- 👯 Buscando colaborar com projetos em back-end no momento.
 - 😊 Posso te ajudar com CSS, HTML, Javascript.
 - 💬 Sobre mim: Curto tecnologias desde sempre, estou buscando me aprimorar cada vez mais na área 😎🎮 adoro assistir séries em geral e ir na academia :)!
 -->
