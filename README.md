@@ -6,7 +6,7 @@
 - 🌱 Atualmente estou aprendendo sobre Flutter, PHP e Laravel, SpringBoot.
 - 👯 Buscando colaborar com projetos em back-end no momento.
 - 😊 Posso te ajudar com CSS, HTML, Javascript, PHP e Laravel.
-- 💬 Sobre mim: Curto tecnologias desde sempre, estou buscando me aprimorar cada vez mais na área 😎🎮 adoro assistir séries em geral e ir na academia :)!
+- 💬 Sobre mim: Curto tecnologias desde sempre, estou buscando me aprimorar cada vez mais na área 😎🎮 adoro assistir séries em geral, ficar o máximo possível com minha filha e ir na academia :)!
 -->
 
 <div align="center">
