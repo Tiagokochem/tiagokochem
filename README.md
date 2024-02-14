@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente estou trabalhando como dev Jr em PHP, Laravel e Vue!
+- 🔭 Atualmente estou trabalhando como dev em PHP, Laravel e Vue, Spring e Flutter!
 - 🌱 Atualmente estou aprendendo sobre Flutter, PHP e Laravel, SpringBoot.
 - 👯 Buscando colaborar com projetos em back-end no momento.
 - 😊 Posso te ajudar com CSS, HTML, Javascript, PHP e Laravel.
