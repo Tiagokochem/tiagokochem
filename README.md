@@ -46,6 +46,14 @@ Full Stack Developer com +5 anos de experiência em PHP/Laravel e Vue.js, atualm
 ---
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagokochem&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagokochem&layout=compact&langs_count=7&theme=dracula&hide_border=true&cache_seconds=1800"/>
+</div>
+
+---
+
+<div align="center">
   <a href="https://www.linkedin.com/in/tiago-kochem-b341a6164/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:tiagok989@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/tiagokochem/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
